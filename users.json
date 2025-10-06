@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Lorenzoo",
+    "password": "x145",
+    "email": "admin@gmail.com",
+    "appPassword": "abcd efgh ijkl mnop",
+    "role": "admin",
+    "premiumUntil": null
+  },
+  {
+    "username": "user1",
+    "password": "user123",
+    "email": "user1@gmail.com",
+    "appPassword": "qwer tyui opas dfgh",
+    "role": "premium",
+    "premiumUntil": "2025-10-07T00:00:00.000Z"
+  },
+  {
+    "username": "user2",
+    "password": "userpass",
+    "email": "user2@gmail.com",
+    "appPassword": "zxcv bnmk lkjh gfds",
+    "role": "free",
+    "premiumUntil": null
+  }
+]
