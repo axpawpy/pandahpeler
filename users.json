@@ -5,7 +5,10 @@
     "email": "wangsapunban@gmail.com",
     "appPassword": "fzty cghp yddt pebg",
     "role": "admin",
-    "premiumUntil": null
+    "premiumUntil": null,
+    "dailyResetDate": "2025-10-08",
+    "usedToday": 1,
+    "lastSend": 1759921281473
   },
   {
     "username": "estevao",
