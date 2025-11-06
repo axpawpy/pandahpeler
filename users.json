@@ -16,7 +16,10 @@
     "email": "wangsapunban@gmail.com",
     "appPassword": "fzty cghp yddt pebg",
     "role": "premium",
-    "premiumUntil": "2025-10-07T00:00:00.000Z"
+    "premiumUntil": "2025-10-07T00:00:00.000Z",
+    "dailyResetDate": "2025-11-06",
+    "usedToday": 1,
+    "lastSend": 1762445602236
   },
   {
     "username": "user2",
