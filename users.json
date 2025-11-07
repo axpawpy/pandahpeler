@@ -76,5 +76,17 @@
     "lastSend": 1762492797078,
     "usedToday": 7,
     "dailyResetDate": "2025-11-07"
+  },
+  {
+    "username": "wxyn11",
+    "password": "wxyn_11",
+    "role": "user",
+    "email": "wangsapunban@gmail.com",
+    "appPassword": "",
+    "premium": true,
+    "premiumUntil": 1762588163616,
+    "lastSend": 0,
+    "usedToday": 0,
+    "dailyResetDate": "1970-01-01"
   }
 ]
