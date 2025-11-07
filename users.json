@@ -66,18 +66,6 @@
     "dailyResetDate": "1970-01-01"
   },
   {
-    "username": "vip",
-    "password": "145",
-    "role": "user",
-    "email": "wangsapunban@gmail.com",
-    "appPassword": "fzty cghp yddt pebg",
-    "premium": true,
-    "premiumUntil": 1763266506843,
-    "lastSend": 1762492797078,
-    "usedToday": 7,
-    "dailyResetDate": "2025-11-07"
-  },
-  {
     "username": "wxyn11",
     "password": "wxyn_11",
     "role": "user",
